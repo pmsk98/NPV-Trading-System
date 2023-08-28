@@ -17,6 +17,7 @@ Workstation: Anaconda3
 - Run Stock_data.py
 ### 2. NPV-labeling & Train/Test split
 - Run NPV-labeling.py
+- Run Modeling.py
 ### 3. Trading Simulation & Evaluation
 - Run Trading simulation & Evaluation.py
 ### 4. Benchmark (Up-Down labeling)
