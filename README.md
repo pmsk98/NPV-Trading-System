@@ -28,6 +28,5 @@ Workstation: Anaconda3
 ### NPV-Trading System Trading signal 
 ![image](https://github.com/pmsk98/NPV-Trading-System/assets/45275607/5c43fbed-fad5-48e8-bc62-9a1ac559716c)
 
-### Evaluation
-
-
+### Notice
+- The 'Path' part should be adjusted according to your personal environment.
